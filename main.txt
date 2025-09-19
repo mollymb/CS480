@@ -1,0 +1,52 @@
+\begin{document}
+
+\title{The Dual Environmental Impact of AI: An Empirical Assessment of its Problem-Making and Problem-Solving nature}
+
+\author{Sanjar Yuldashev}
+ \affiliation{%
+   \institution{Colorado State University}
+\city{Fort Collins}
+\state{CO}
+   \country{USA}
+ }
+\email{sanjar29@colostate.edu}
+ 
+\author{Molly Bruggeman}
+ \affiliation{%
+   \institution{Colorado State University}
+\city{Fort Collins}
+\state{CO}
+   \country{USA}
+ }
+\email{mollymbb@colostate.edu}
+ 
+\author{Briana Ochoa-Espinosa}
+ \affiliation{%
+   \institution{Colorado State University}
+\city{Fort Collins}
+\state{CO}
+   \country{USA}
+ }
+\email{briana.ochoa_espinosa@colostate.edu}
+
+\author{Sophia Lopez}
+ \affiliation{%
+   \institution{Colorado State University}
+\city{Fort Collins}
+\state{CO}
+   \country{USA}
+ }
+\email{sophia.lopez@colostate.edu}
+
+% -------------------
+% Collaboration Links
+% -------------------
+\section*{Collaboration Links}
+\begin{itemize}
+    \item Google Doc draft: \href{https://docs.google.com/document/d/xxxx}{https://docs.google.com/document/d/xxxx}
+    \item Overleaf project: \href{https://www.overleaf.com/project/xxxx}{https://www.overleaf.com/project/xxxx}
+    \item Presentation schedule: \href{https://docs.google.com/spreadsheets/d/1pFlOTXB-AaRHpdP7dfKGgAysqLyVgN5THnimKhNkuUs/edit?usp=sharing}{Google Sheet link}
+\end{itemize}
+
+\begin{abstract}
+\textbf{Background:} Artificial Intelligence (AI) affects the environment in complex ways. ...
