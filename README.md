@@ -18,34 +18,37 @@ Shared repo for tasks, meeting notes, and deliverables.
 - [Overleaf Project](https://www.overleaf.com/project/68ae0ce9a2252fd6e1d4a030)  
 - [Presentation Schedule](https://docs.google.com/spreadsheets/d/1pFlOTXB-AaRHpdP7dfKGgAysqLyVgN5THnimKhNkuUs/edit?usp=sharing)
 
-- ## 📅 Schedule & Important Deadlines (Fall 2025)
+
+## 📅 Schedule & Important Deadlines (Fall 2025)
+
+- [ ] not done yet
+- [x] done
 
 ### September
-- **Sep 5 (Fri)** — Form your group for research project (Assignment 1)  
-- **Sep 5 (Fri)** — Quiz 0 (Syllabus) due  
-- **Sep 19 (Fri)** — Quiz 1 (Empiricism, RQs, Strategies) due  
-- **Sep 19 (Fri)** — **Project Delivery 1: Introduction + Method** due (PDF + Collab Report)  
+- [x] **Sep 5 (Fri)** — Form your group for research project (Assignment 1)  
+- [x] **Sep 5 (Fri)** — Quiz 0 (Syllabus) due  
+- [x] **Sep 19 (Fri)** — Quiz 1 (Empiricism, RQs, Strategies) due  
+- [ ] **Sep 19 (Fri)** — Project Delivery 1: Introduction + Method  
 
 ### October
-- **Oct 3 (Fri)** — Optional: Mine repo languages (Assignment extra)  
-- **Oct 6 (Mon)** — Midterm Exam 1  
-- **Oct 10 (Fri)** — Quiz 2 (Sampling & MSR) due  
-- **Oct 31 (Fri)** — Assignment 2: CITI training (Group 2: Social/Behavioral Research)  
-- **Oct 31 (Fri)** — Quiz 3 (Data Enrichment + Quantitative Analysis) due  
-- **Oct 31 (Fri)** — **Project Delivery 2 draft: Intro + Method + Results + Discussion** due  
+- [ ] **Oct 3 (Fri)** — Optional: Mine repo languages (extra)  
+- [ ] **Oct 6 (Mon)** — Midterm Exam 1  
+- [ ] **Oct 10 (Fri)** — Quiz 2 (Sampling & MSR) due  
+- [ ] **Oct 31 (Fri)** — Assignment 2: CITI training  
+- [ ] **Oct 31 (Fri)** — Quiz 3 (Data Enrichment + Quantitative Analysis) due  
+- [ ] **Oct 31 (Fri)** — Project Delivery 2 draft  
 
 ### November
-- **Nov 7 (Fri)** — Optional: Investigate closed-but-unmerged PRs (Assignment extra)  
-- **Nov 10–14** — **Project Delivery 2 Presentations** (8 min each group)  
-- **Nov 14 (Fri)** — Quiz 4 (Interviews, Surveys, Qualitative Analysis) posted  
-- **Nov 21 (Fri)** — Quiz 4 due  
-- **Nov 24–28** — 🍂 **Fall Break**  
+- [ ] **Nov 7 (Fri)** — Optional: Investigate closed PRs (extra)  
+- [ ] **Nov 10–14** — Project Delivery 2 Presentations (8 min)  
+- [ ] **Nov 14 (Fri)** — Quiz 4 posted  
+- [ ] **Nov 21 (Fri)** — Quiz 4 due  
+- 🍂 **Nov 24–28** — Fall Break  
 
 ### December
-- **Dec 1 (Mon, before class)** — **Project Delivery 3 (Final version): Threats to Validity + Complete Paper**  
-- **Dec 1–5 (Mon–Fri)** — **Final Presentations (10 min each group)**  
-- **Dec 12 (Fri)** — Review for Final Exam  
-- **Dec 15 (Mon)** — **Final Exam, 11:50am–1:50pm**  
+- [ ] **Dec 1 (Mon)** — Project Delivery 3 (Final version)  
+- [ ] **Dec 1–5** — Final Presentations (10 min)  
+- [ ] **Dec 12 (Fri)** — Review for Final Exam  
+- [ ] **Dec 15 (Mon)** — Final Exam, 11:50am–1:50pm  
 
----
 
