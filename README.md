@@ -14,7 +14,7 @@ Shared repo for tasks, meeting notes, and deliverables.
 - `templates/` – issue/PR templates (auto-used).
 
 - ## 🔗 Collaboration Links
-- [Google Doc Draft](https://docs.google.com/document/d/xxxx)  
-- [Overleaf Project](https://www.overleaf.com/project/xxxx)  
+- [Google Doc Draft](https://docs.google.com/document/d/12kwYU3Lrmjo2Q6Ggs8BieN2nsba1cT9rDwHZT5a8qfk/edit?usp=sharing)  
+- [Overleaf Project](https://www.overleaf.com/project/68ae0ce9a2252fd6e1d4a030)  
 - [Presentation Schedule](https://docs.google.com/spreadsheets/d/1pFlOTXB-AaRHpdP7dfKGgAysqLyVgN5THnimKhNkuUs/edit?usp=sharing)  
 
