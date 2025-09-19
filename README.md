@@ -12,3 +12,9 @@ Shared repo for tasks, meeting notes, and deliverables.
 - `tasks/` – checklists or larger multi-step task docs.
 - `deliverables/` – final writeups/slides/code snippets.
 - `templates/` – issue/PR templates (auto-used).
+
+- ## 🔗 Collaboration Links
+- [Google Doc Draft](https://docs.google.com/document/d/xxxx)  
+- [Overleaf Project](https://www.overleaf.com/project/xxxx)  
+- [Presentation Schedule](https://docs.google.com/spreadsheets/d/1pFlOTXB-AaRHpdP7dfKGgAysqLyVgN5THnimKhNkuUs/edit?usp=sharing)  
+
