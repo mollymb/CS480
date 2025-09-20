@@ -28,7 +28,7 @@ Shared repo for tasks, meeting notes, and deliverables.
 - [x] **Sep 5 (Fri)** — Form your group for research project (Assignment 1)  
 - [x] **Sep 5 (Fri)** — Quiz 0 (Syllabus) due  
 - [x] **Sep 19 (Fri)** — Quiz 1 (Empiricism, RQs, Strategies) due  
-- [ ] **Sep 19 (Fri)** — Project Delivery 1: Introduction + Method  
+- [x] **Sep 19 (Fri)** — Project Delivery 1: Introduction + Method  
 
 ### October
 - [ ] **Oct 3 (Fri)** — Optional: Mine repo languages (extra)  
