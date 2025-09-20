@@ -6,6 +6,7 @@ Shared repo for tasks, meeting notes, and deliverables.
 - Create an **Issue** for every task and add it to the **CS480 Tasks** board.
 - Branch naming: `feature/<short-name>` or `docs/<note-topic>`.
 - Open a **PR** to `main` for any change; 1 review required.
+- We meet every Sunday at 3pm for an ~1 hour. 
 
 ## Folders
 - `docs/` – agendas, meeting notes, decisions.
